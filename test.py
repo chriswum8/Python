@@ -10,6 +10,7 @@ def printinfo( arg1, *vartuple ):
       arg1 = arg1 + var
    print arg1
 
+#test2
 
 print printinfo(1,2,3,4,5)
 
