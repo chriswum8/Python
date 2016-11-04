@@ -3,6 +3,7 @@
 
 
 import test2
+import Phone
 
 def sum(arg1, arg2):
 	arg3 = arg1+arg2
@@ -17,6 +18,11 @@ print test2.printinfo(1,2,3,4,5)
 sum = lambda arg1, arg2: arg1 + arg2;
 
 print sum(2,2)
+
+
+Phone.Pots()
+Phone.Isdn()
+Phone.G3()
 
 
 
