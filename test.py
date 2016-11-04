@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 
-import test2
+import printinfo
 import Phone
 
 def sum(arg1, arg2):
